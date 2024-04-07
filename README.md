@@ -6,7 +6,7 @@ Instagram Bot Built with Python 3 using Selenium Library.
 
   * Login to Instagram
   * Navigate to a user's Page
-  *Follow a User
+  * Follow a User
   * Unfollow a User
   * Get List of Followers of any User
   * Log Out from Instagram
